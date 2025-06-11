@@ -8,7 +8,6 @@
     *   -Cambio correcto de paradigma a POO
     * Proyecto creado por:
     *   Nombre: Santiago Enriquez Martinez
-    *   Codigo: 1010105344
 """
 
 from clases.articulo import Articulo
