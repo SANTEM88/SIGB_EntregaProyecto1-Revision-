@@ -1,7 +1,6 @@
 """
     *
-    * Universidad Tecnologica de Pereira
-    *
+    *     
     * Proyecto: gestion de una biblioteca
     * Revision del proyecto biblioteca VER(1.1)
     * Cambios:
